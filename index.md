@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/ethaneverest314/First-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ethaneverest314/First-website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1> Ethan Everest</h1>
+<h2> About:</h2>
+<p> My name is ethan and I like to code. I Graduated from greenbrier high school in 2019. Greenbriers is a relitivly small town and my class was no bigger then 300 people. I really injoy messing with computers and electronics. I find it fun making a device do somethings most people dont know how to do.  
+<h3> Family:</h2>
+<p>Brother: sage 
+<p>Sister: Skylar
+<p>Sister: Scarlett
+<p>Father: Shaun
+<p>Step-Mother: Michell 
+<p>Mother:Penny
+<p>Step-Father: Blake
+<p>Dog:Clara
